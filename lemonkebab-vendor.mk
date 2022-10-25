@@ -15,24 +15,58 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/lemonkebab/proprietary/odm/bin/init.oplus.fingerprints.sh:$(TARGET_COPY_OUT_ODM)/bin/init.oplus.fingerprints.sh \
     vendor/oneplus/lemonkebab/proprietary/odm/bin/oplus_sensor_fb:$(TARGET_COPY_OUT_ODM)/bin/oplus_sensor_fb \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/acdbdata/Audio_Parameter_Version.txt:$(TARGET_COPY_OUT_ODM)/etc/acdbdata/Audio_Parameter_Version.txt \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/acdbdata/Audio_Parameter_Version.txt:$(TARGET_COPY_OUT_ODM)/19811/etc/acdbdata/Audio_Parameter_Version.txt \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/etc/acdbdata/Audio_Parameter_Version.txt:$(TARGET_COPY_OUT_ODM)/19821/etc/acdbdata/Audio_Parameter_Version.txt \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/acdbdata/Bluetooth_cal.acdb:$(TARGET_COPY_OUT_ODM)/etc/acdbdata/Bluetooth_cal.acdb \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/acdbdata/Bluetooth_cal.acdb:$(TARGET_COPY_OUT_ODM)/19811/etc/acdbdata/Bluetooth_cal.acdb \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/etc/acdbdata/Bluetooth_cal.acdb:$(TARGET_COPY_OUT_ODM)/19821/etc/acdbdata/Bluetooth_cal.acdb \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/acdbdata/General_cal.acdb:$(TARGET_COPY_OUT_ODM)/etc/acdbdata/General_cal.acdb \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/acdbdata/General_cal.acdb:$(TARGET_COPY_OUT_ODM)/19811/etc/acdbdata/General_cal.acdb \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/etc/acdbdata/General_cal.acdb:$(TARGET_COPY_OUT_ODM)/19821/etc/acdbdata/General_cal.acdb \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/acdbdata/Global_cal.acdb:$(TARGET_COPY_OUT_ODM)/etc/acdbdata/Global_cal.acdb \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/acdbdata/Global_cal.acdb:$(TARGET_COPY_OUT_ODM)/19811/etc/acdbdata/Global_cal.acdb \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/etc/acdbdata/Global_cal.acdb:$(TARGET_COPY_OUT_ODM)/19821/etc/acdbdata/Global_cal.acdb \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/acdbdata/Handset_cal.acdb:$(TARGET_COPY_OUT_ODM)/etc/acdbdata/Handset_cal.acdb \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/acdbdata/Handset_cal.acdb:$(TARGET_COPY_OUT_ODM)/19811/etc/acdbdata/Handset_cal.acdb \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/etc/acdbdata/Handset_cal.acdb:$(TARGET_COPY_OUT_ODM)/19821/etc/acdbdata/Handset_cal.acdb \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/acdbdata/Hdmi_cal.acdb:$(TARGET_COPY_OUT_ODM)/etc/acdbdata/Hdmi_cal.acdb \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/acdbdata/Hdmi_cal.acdb:$(TARGET_COPY_OUT_ODM)/19811/etc/acdbdata/Hdmi_cal.acdb \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/etc/acdbdata/Hdmi_cal.acdb:$(TARGET_COPY_OUT_ODM)/19821/etc/acdbdata/Hdmi_cal.acdb \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/acdbdata/Headset_cal.acdb:$(TARGET_COPY_OUT_ODM)/etc/acdbdata/Headset_cal.acdb \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/acdbdata/Headset_cal.acdb:$(TARGET_COPY_OUT_ODM)/19811/etc/acdbdata/Headset_cal.acdb \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/etc/acdbdata/Headset_cal.acdb:$(TARGET_COPY_OUT_ODM)/19821/etc/acdbdata/Headset_cal.acdb \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/acdbdata/Speaker_cal.acdb:$(TARGET_COPY_OUT_ODM)/etc/acdbdata/Speaker_cal.acdb \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/acdbdata/Speaker_cal.acdb:$(TARGET_COPY_OUT_ODM)/19811/etc/acdbdata/Speaker_cal.acdb \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/etc/acdbdata/Speaker_cal.acdb:$(TARGET_COPY_OUT_ODM)/19821/etc/acdbdata/Speaker_cal.acdb \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/camera/ashdr/ncf_pack.ncf:$(TARGET_COPY_OUT_ODM)/etc/camera/ashdr/ncf_pack.ncf \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/camera/ashdr/ncf_pack.ncf:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/ashdr/ncf_pack.ncf \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/camera/ashdr/ncf_pack_imx471.ncf:$(TARGET_COPY_OUT_ODM)/etc/camera/ashdr/ncf_pack_imx471.ncf \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/camera/ashdr/ncf_pack_imx471.ncf:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/ashdr/ncf_pack_imx471.ncf \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/camera/ashdr/ncf_pack_imx481.ncf:$(TARGET_COPY_OUT_ODM)/etc/camera/ashdr/ncf_pack_imx481.ncf \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/etc/camera/ashdr/ncf_pack_imx481.ncf:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/ashdr/ncf_pack_imx481.ncf \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/camera/ashdr/ncf_pack_imx586.ncf:$(TARGET_COPY_OUT_ODM)/etc/camera/ashdr/ncf_pack_imx586.ncf \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/camera/ashdr/ncf_pack_imx586.ncf:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/ashdr/ncf_pack_imx586.ncf \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/etc/camera/ashdr/ncf_pack_imx586.ncf:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/ashdr/ncf_pack_imx586.ncf \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/camera/ashdr/ncf_pack_imx689.ncf:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/ashdr/ncf_pack_imx689.ncf \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/camera/ashdr/ncf_pack_s5k3m5.ncf:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/ashdr/ncf_pack_s5k3m5.ncf \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/camera/calibrationOutput_IR.bin:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/calibrationOutput_IR.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/camera/calibrationOutput_uw.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/calibrationOutput_uw.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/camera/calibrationOutput_uw.bin:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/calibrationOutput_uw.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/etc/camera/calibrationOutput_uw.bin:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/calibrationOutput_uw.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/camera/calibrationOutput_wt.bin:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/calibrationOutput_wt.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/camera/darksight/darksight_main.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/darksight/darksight_main.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/camera/darksight/darksight_main.bin:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/darksight/darksight_main.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/camera/darksight/darksight_ultrawide.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/darksight/darksight_ultrawide.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/camera/darksight/darksight_ultrawide.bin:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/darksight/darksight_ultrawide.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/camera/distortion_result.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/distortion_result.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/camera/distortion_result.bin:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/distortion_result.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/etc/camera/distortion_result.bin:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/distortion_result.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/camera/fb_default:$(TARGET_COPY_OUT_ODM)/etc/camera/fb_default \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/camera/fwk_config.json:$(TARGET_COPY_OUT_ODM)/etc/camera/fwk_config.json \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/init/android.hardware.drm@1.3-service.widevine.rc:$(TARGET_COPY_OUT_ODM)/etc/init/android.hardware.drm@1.3-service.widevine.rc \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/init/calibrationOutput_IR.rc:$(TARGET_COPY_OUT_ODM)/19811/etc/init/calibrationOutput_IR.rc \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/init/calibrationOutput_uw.rc:$(TARGET_COPY_OUT_ODM)/19811/etc/init/calibrationOutput_uw.rc \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/etc/init/calibrationOutput_wt.rc:$(TARGET_COPY_OUT_ODM)/19811/etc/init/calibrationOutput_wt.rc \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/init/vendor.oplus.hardware.biometrics.fingerprint@2.1-service.rc:$(TARGET_COPY_OUT_ODM)/etc/init/vendor.oplus.hardware.biometrics.fingerprint@2.1-service.rc \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/init/vendor.oplus.hardware.oplusSensor@1.0-service.rc:$(TARGET_COPY_OUT_ODM)/etc/init/vendor.oplus.hardware.oplusSensor@1.0-service.rc \
     vendor/oneplus/lemonkebab/proprietary/odm/etc/init/vendor.pixelworks.hardware.feature.irisfeature-service.rc:$(TARGET_COPY_OUT_ODM)/etc/init/vendor.pixelworks.hardware.feature.irisfeature-service.rc \
@@ -1099,6 +1133,8 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/lemonkebab/proprietary/odm/firmware/shuntai24k_rtp.bin:$(TARGET_COPY_OUT_ODM)/firmware/shuntai24k_rtp.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/firmware/t-jingle_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/t-jingle_RTP.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/firmware/tfa98xx.cnt:$(TARGET_COPY_OUT_ODM)/firmware/tfa98xx.cnt \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/firmware/tfa98xx.cnt:$(TARGET_COPY_OUT_ODM)/19811/firmware/tfa98xx.cnt \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/firmware/tfa98xx.cnt:$(TARGET_COPY_OUT_ODM)/19821/firmware/tfa98xx.cnt \
     vendor/oneplus/lemonkebab/proprietary/odm/firmware/tp/19065/FW_S6SY791_SAMSUNG.bin:$(TARGET_COPY_OUT_ODM)/firmware/tp/19065/FW_S6SY791_SAMSUNG.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/firmware/tp/19065/FW_S6SY791_SAMSUNG_FAE.bin:$(TARGET_COPY_OUT_ODM)/firmware/tp/19065/FW_S6SY791_SAMSUNG_FAE.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/firmware/tp/19065/LIMIT_S6SY791_SAMSUNG.img:$(TARGET_COPY_OUT_ODM)/firmware/tp/19065/LIMIT_S6SY791_SAMSUNG.img \
@@ -1164,15 +1200,46 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/lemonkebab/proprietary/odm/lib/vendor.oplus.hardware.orms@1.0.so:$(TARGET_COPY_OUT_ODM)/lib/vendor.oplus.hardware.orms@1.0.so \
     vendor/oneplus/lemonkebab/proprietary/odm/lib64/android.hardware.secure_element@1.0-impl.so:$(TARGET_COPY_OUT_ODM)/lib64/android.hardware.secure_element@1.0-impl.so \
     vendor/oneplus/lemonkebab/proprietary/odm/lib64/camera/com.qti.sensormodule.holitech_gc02m1b.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.holitech_gc02m1b.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/lib64/camera/com.qti.sensormodule.ofilm_imx481.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.sensormodule.ofilm_imx481.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/lib64/camera/com.qti.sensormodule.ofilm_imx481_SFK.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.sensormodule.ofilm_imx481_SFK.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/lib64/camera/com.qti.sensormodule.qtech_imx481.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.qtech_imx481.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/lib64/camera/com.qti.sensormodule.semco_imx586.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.semco_imx586.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti.sensormodule.semco_imx586.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.sensormodule.semco_imx586.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/lib64/camera/com.qti.sensormodule.semco_imx586.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.sensormodule.semco_imx586.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti.sensormodule.semco_imx586_BG.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.sensormodule.semco_imx586_BG.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti.sensormodule.semco_imx689.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.sensormodule.semco_imx689.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti.sensormodule.semco_imx689_MP.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.sensormodule.semco_imx689_MP.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti.sensormodule.semco_s5k3m5.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.sensormodule.semco_s5k3m5.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/lib64/camera/com.qti.sensormodule.shine_gc2375.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.sensormodule.shine_gc2375.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/lib64/camera/com.qti.sensormodule.shine_gc5035.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.shine_gc5035.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti.sensormodule.shine_gc5035.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.sensormodule.shine_gc5035.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/lib64/camera/com.qti.sensormodule.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.truly_imx471.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti.sensormodule.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.sensormodule.truly_imx471.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/lib64/camera/com.qti.sensormodule.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.sensormodule.truly_imx471.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/lib64/camera/com.qti.tuned.holitech_gc02m1b.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.holitech_gc02m1b.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/lib64/camera/com.qti.tuned.ofilm_imx481.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.tuned.ofilm_imx481.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/lib64/camera/com.qti.tuned.qtech_imx481.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.qtech_imx481.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/lib64/camera/com.qti.tuned.semco_imx586.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.semco_imx586.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti.tuned.semco_imx586.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.tuned.semco_imx586.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/lib64/camera/com.qti.tuned.semco_imx586.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.tuned.semco_imx586.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti.tuned.semco_imx586_BG.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.tuned.semco_imx586_BG.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti.tuned.semco_imx689.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.tuned.semco_imx689.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti.tuned.semco_s5k3m5.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.tuned.semco_s5k3m5.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/lib64/camera/com.qti.tuned.shine_gc2375.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.tuned.shine_gc2375.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/lib64/camera/com.qti.tuned.shine_gc5035.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.shine_gc5035.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti.tuned.shine_gc5035.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.tuned.shine_gc5035.bin \
     vendor/oneplus/lemonkebab/proprietary/odm/lib64/camera/com.qti.tuned.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.truly_imx471.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti.tuned.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.tuned.truly_imx471.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/lib64/camera/com.qti.tuned.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.tuned.truly_imx471.bin \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/lib64/camera/com.qti_instantnoodle.sensor.gc2375.so:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti_instantnoodle.sensor.gc2375.so \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/lib64/camera/com.qti_instantnoodle.sensor.imx471.so:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti_instantnoodle.sensor.imx471.so \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/lib64/camera/com.qti_instantnoodle.sensor.imx481.so:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti_instantnoodle.sensor.imx481.so \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/lib64/camera/com.qti_instantnoodle.sensor.imx586.so:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti_instantnoodle.sensor.imx586.so \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti_instantnoodlep.sensor.gc5035.so:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti_instantnoodlep.sensor.gc5035.so \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti_instantnoodlep.sensor.imx471.so:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti_instantnoodlep.sensor.imx471.so \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti_instantnoodlep.sensor.imx586.so:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti_instantnoodlep.sensor.imx586.so \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti_instantnoodlep.sensor.imx689.so:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti_instantnoodlep.sensor.imx689.so \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/lib64/camera/com.qti_instantnoodlep.sensor.s5k3m5.so:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti_instantnoodlep.sensor.s5k3m5.so \
     vendor/oneplus/lemonkebab/proprietary/odm/lib64/camera/com.qti_lemonades.sensor.gc02m1b.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_lemonades.sensor.gc02m1b.so \
     vendor/oneplus/lemonkebab/proprietary/odm/lib64/camera/com.qti_lemonades.sensor.gc5035.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_lemonades.sensor.gc5035.so \
     vendor/oneplus/lemonkebab/proprietary/odm/lib64/camera/com.qti_lemonades.sensor.imx471.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_lemonades.sensor.imx471.so \
@@ -1246,15 +1313,51 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/lemonkebab/proprietary/system/etc/firmware/alipay.b06:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/alipay.b06 \
     vendor/oneplus/lemonkebab/proprietary/system/etc/firmware/alipay.b07:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/alipay.b07 \
     vendor/oneplus/lemonkebab/proprietary/system/etc/firmware/alipay.mdt:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/alipay.mdt \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9608.b00:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9608.b00 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9608.b00:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9608.b00 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9608.b01:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9608.b01 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9608.b01:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9608.b01 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9608.b02:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9608.b02 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9608.b02:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9608.b02 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9608.b03:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9608.b03 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9608.b03:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9608.b03 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9608.b04:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9608.b04 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9608.b04:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9608.b04 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9608.b05:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9608.b05 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9608.b05:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9608.b05 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9608.b06:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9608.b06 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9608.b06:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9608.b06 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9608.b07:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9608.b07 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9608.b07:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9608.b07 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9608.mdt:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9608.mdt \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9608.mdt:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9608.mdt \
     vendor/oneplus/lemonkebab/proprietary/odm/vendor/firmware/gfp9638.b00:$(TARGET_COPY_OUT_ODM)/vendor/firmware/gfp9638.b00 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9638.b00:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9638.b00 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9638.b00:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9638.b00 \
     vendor/oneplus/lemonkebab/proprietary/odm/vendor/firmware/gfp9638.b01:$(TARGET_COPY_OUT_ODM)/vendor/firmware/gfp9638.b01 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9638.b01:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9638.b01 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9638.b01:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9638.b01 \
     vendor/oneplus/lemonkebab/proprietary/odm/vendor/firmware/gfp9638.b02:$(TARGET_COPY_OUT_ODM)/vendor/firmware/gfp9638.b02 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9638.b02:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9638.b02 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9638.b02:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9638.b02 \
     vendor/oneplus/lemonkebab/proprietary/odm/vendor/firmware/gfp9638.b03:$(TARGET_COPY_OUT_ODM)/vendor/firmware/gfp9638.b03 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9638.b03:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9638.b03 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9638.b03:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9638.b03 \
     vendor/oneplus/lemonkebab/proprietary/odm/vendor/firmware/gfp9638.b04:$(TARGET_COPY_OUT_ODM)/vendor/firmware/gfp9638.b04 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9638.b04:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9638.b04 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9638.b04:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9638.b04 \
     vendor/oneplus/lemonkebab/proprietary/odm/vendor/firmware/gfp9638.b05:$(TARGET_COPY_OUT_ODM)/vendor/firmware/gfp9638.b05 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9638.b05:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9638.b05 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9638.b05:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9638.b05 \
     vendor/oneplus/lemonkebab/proprietary/odm/vendor/firmware/gfp9638.b06:$(TARGET_COPY_OUT_ODM)/vendor/firmware/gfp9638.b06 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9638.b06:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9638.b06 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9638.b06:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9638.b06 \
     vendor/oneplus/lemonkebab/proprietary/odm/vendor/firmware/gfp9638.b07:$(TARGET_COPY_OUT_ODM)/vendor/firmware/gfp9638.b07 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9638.b07:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9638.b07 \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9638.b07:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9638.b07 \
     vendor/oneplus/lemonkebab/proprietary/odm/vendor/firmware/gfp9638.mdt:$(TARGET_COPY_OUT_ODM)/vendor/firmware/gfp9638.mdt \
+    vendor/oneplus/lemonkebab/proprietary/odm/19811/vendor/firmware/gfp9638.mdt:$(TARGET_COPY_OUT_ODM)/19811/vendor/firmware/gfp9638.mdt \
+    vendor/oneplus/lemonkebab/proprietary/odm/19821/vendor/firmware/gfp9638.mdt:$(TARGET_COPY_OUT_ODM)/19821/vendor/firmware/gfp9638.mdt \
     vendor/oneplus/lemonkebab/proprietary/odm/vendor/firmware/gfp9678.b00:$(TARGET_COPY_OUT_ODM)/vendor/firmware/gfp9678.b00 \
     vendor/oneplus/lemonkebab/proprietary/odm/vendor/firmware/gfp9678.b01:$(TARGET_COPY_OUT_ODM)/vendor/firmware/gfp9678.b01 \
     vendor/oneplus/lemonkebab/proprietary/odm/vendor/firmware/gfp9678.b02:$(TARGET_COPY_OUT_ODM)/vendor/firmware/gfp9678.b02 \
