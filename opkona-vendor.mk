@@ -40,8 +40,10 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/opkona/proprietary/odm/19821/etc/acdbdata/Speaker_cal.acdb:$(TARGET_COPY_OUT_ODM)/19821/etc/acdbdata/Speaker_cal.acdb \
     vendor/oneplus/opkona/proprietary/odm/etc/camera/ashdr/ncf_pack.ncf:$(TARGET_COPY_OUT_ODM)/etc/camera/ashdr/ncf_pack.ncf \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/ashdr/ncf_pack.ncf:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/ashdr/ncf_pack.ncf \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/camera/ashdr/ncf_pack.ncf:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/ashdr/ncf_pack.ncf \
     vendor/oneplus/opkona/proprietary/odm/etc/camera/ashdr/ncf_pack_imx471.ncf:$(TARGET_COPY_OUT_ODM)/etc/camera/ashdr/ncf_pack_imx471.ncf \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/ashdr/ncf_pack_imx471.ncf:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/ashdr/ncf_pack_imx471.ncf \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/camera/ashdr/ncf_pack_imx471.ncf:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/ashdr/ncf_pack_imx471.ncf \
     vendor/oneplus/opkona/proprietary/odm/etc/camera/ashdr/ncf_pack_imx481.ncf:$(TARGET_COPY_OUT_ODM)/etc/camera/ashdr/ncf_pack_imx481.ncf \
     vendor/oneplus/opkona/proprietary/odm/19821/etc/camera/ashdr/ncf_pack_imx481.ncf:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/ashdr/ncf_pack_imx481.ncf \
     vendor/oneplus/opkona/proprietary/odm/etc/camera/ashdr/ncf_pack_imx586.ncf:$(TARGET_COPY_OUT_ODM)/etc/camera/ashdr/ncf_pack_imx586.ncf \
@@ -56,8 +58,10 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/calibrationOutput_wt.bin:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/calibrationOutput_wt.bin \
     vendor/oneplus/opkona/proprietary/odm/etc/camera/darksight/darksight_main.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/darksight/darksight_main.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/darksight/darksight_main.bin:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/darksight/darksight_main.bin \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/camera/darksight/darksight_main.bin:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/darksight/darksight_main.bin \
     vendor/oneplus/opkona/proprietary/odm/etc/camera/darksight/darksight_ultrawide.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/darksight/darksight_ultrawide.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/darksight/darksight_ultrawide.bin:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/darksight/darksight_ultrawide.bin \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/camera/darksight/darksight_ultrawide.bin:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/darksight/darksight_ultrawide.bin \
     vendor/oneplus/opkona/proprietary/odm/etc/camera/distortion_result.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/distortion_result.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/distortion_result.bin:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/distortion_result.bin \
     vendor/oneplus/opkona/proprietary/odm/19821/etc/camera/distortion_result.bin:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/distortion_result.bin \
@@ -1248,7 +1252,9 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/opkona/proprietary/odm/lib64/camera/components/com.oneplus.node.cfrsnapshot.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oneplus.node.cfrsnapshot.so \
     vendor/oneplus/opkona/proprietary/odm/lib64/camera/components/com.oneplus.node.cfrvideo.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oneplus.node.cfrvideo.so \
     vendor/oneplus/opkona/proprietary/odm/lib64/camera/components/com.qti.stats.pdlib.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.qti.stats.pdlib.so \
+    vendor/oneplus/opkona/proprietary/odm/19821/lib64/camera/components/com.qti.stats.pdlib.so:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/components/com.qti.stats.pdlib.so \
     vendor/oneplus/opkona/proprietary/odm/lib64/camera/components/libipebpsstriping.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/libipebpsstriping.so \
+    vendor/oneplus/opkona/proprietary/odm/19821/lib64/camera/components/libipebpsstriping.so:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/components/libipebpsstriping.so \
     vendor/oneplus/opkona/proprietary/odm/lib64/camera/fdconfigpreview.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/fdconfigpreview.bin \
     vendor/oneplus/opkona/proprietary/odm/lib64/camera/fdconfigpreviewlite.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/fdconfigpreviewlite.bin \
     vendor/oneplus/opkona/proprietary/odm/lib64/camera/fdconfigvideo.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/fdconfigvideo.bin \
