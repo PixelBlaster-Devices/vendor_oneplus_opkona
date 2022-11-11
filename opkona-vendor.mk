@@ -38,33 +38,33 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/opkona/proprietary/odm/etc/acdbdata/Speaker_cal.acdb:$(TARGET_COPY_OUT_ODM)/etc/acdbdata/Speaker_cal.acdb \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/acdbdata/Speaker_cal.acdb:$(TARGET_COPY_OUT_ODM)/19811/etc/acdbdata/Speaker_cal.acdb \
     vendor/oneplus/opkona/proprietary/odm/19821/etc/acdbdata/Speaker_cal.acdb:$(TARGET_COPY_OUT_ODM)/19821/etc/acdbdata/Speaker_cal.acdb \
-    vendor/oneplus/opkona/proprietary/odm/etc/camera/ashdr/ncf_pack.ncf:$(TARGET_COPY_OUT_ODM)/etc/camera/ashdr/ncf_pack.ncf \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/ashdr/ncf_pack.ncf:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/ashdr/ncf_pack.ncf \
     vendor/oneplus/opkona/proprietary/odm/19821/etc/camera/ashdr/ncf_pack.ncf:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/ashdr/ncf_pack.ncf \
-    vendor/oneplus/opkona/proprietary/odm/etc/camera/ashdr/ncf_pack_imx471.ncf:$(TARGET_COPY_OUT_ODM)/etc/camera/ashdr/ncf_pack_imx471.ncf \
+    vendor/oneplus/opkona/proprietary/odm/20828/etc/camera/ashdr/ncf_pack.ncf:$(TARGET_COPY_OUT_ODM)/20828/etc/camera/ashdr/ncf_pack.ncf \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/ashdr/ncf_pack_imx471.ncf:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/ashdr/ncf_pack_imx471.ncf \
     vendor/oneplus/opkona/proprietary/odm/19821/etc/camera/ashdr/ncf_pack_imx471.ncf:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/ashdr/ncf_pack_imx471.ncf \
-    vendor/oneplus/opkona/proprietary/odm/etc/camera/ashdr/ncf_pack_imx481.ncf:$(TARGET_COPY_OUT_ODM)/etc/camera/ashdr/ncf_pack_imx481.ncf \
+    vendor/oneplus/opkona/proprietary/odm/20828/etc/camera/ashdr/ncf_pack_imx471.ncf:$(TARGET_COPY_OUT_ODM)/20828/etc/camera/ashdr/ncf_pack_imx471.ncf \
     vendor/oneplus/opkona/proprietary/odm/19821/etc/camera/ashdr/ncf_pack_imx481.ncf:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/ashdr/ncf_pack_imx481.ncf \
-    vendor/oneplus/opkona/proprietary/odm/etc/camera/ashdr/ncf_pack_imx586.ncf:$(TARGET_COPY_OUT_ODM)/etc/camera/ashdr/ncf_pack_imx586.ncf \
+    vendor/oneplus/opkona/proprietary/odm/20828/etc/camera/ashdr/ncf_pack_imx481.ncf:$(TARGET_COPY_OUT_ODM)/20828/etc/camera/ashdr/ncf_pack_imx481.ncf \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/ashdr/ncf_pack_imx586.ncf:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/ashdr/ncf_pack_imx586.ncf \
     vendor/oneplus/opkona/proprietary/odm/19821/etc/camera/ashdr/ncf_pack_imx586.ncf:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/ashdr/ncf_pack_imx586.ncf \
+    vendor/oneplus/opkona/proprietary/odm/20828/etc/camera/ashdr/ncf_pack_imx586.ncf:$(TARGET_COPY_OUT_ODM)/20828/etc/camera/ashdr/ncf_pack_imx586.ncf \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/ashdr/ncf_pack_imx689.ncf:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/ashdr/ncf_pack_imx689.ncf \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/ashdr/ncf_pack_s5k3m5.ncf:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/ashdr/ncf_pack_s5k3m5.ncf \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/calibrationOutput_IR.bin:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/calibrationOutput_IR.bin \
-    vendor/oneplus/opkona/proprietary/odm/etc/camera/calibrationOutput_uw.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/calibrationOutput_uw.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/calibrationOutput_uw.bin:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/calibrationOutput_uw.bin \
     vendor/oneplus/opkona/proprietary/odm/19821/etc/camera/calibrationOutput_uw.bin:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/calibrationOutput_uw.bin \
+    vendor/oneplus/opkona/proprietary/odm/20828/etc/camera/calibrationOutput_uw.bin:$(TARGET_COPY_OUT_ODM)/20828/etc/camera/calibrationOutput_uw.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/calibrationOutput_wt.bin:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/calibrationOutput_wt.bin \
-    vendor/oneplus/opkona/proprietary/odm/etc/camera/darksight/darksight_main.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/darksight/darksight_main.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/darksight/darksight_main.bin:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/darksight/darksight_main.bin \
     vendor/oneplus/opkona/proprietary/odm/19821/etc/camera/darksight/darksight_main.bin:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/darksight/darksight_main.bin \
-    vendor/oneplus/opkona/proprietary/odm/etc/camera/darksight/darksight_ultrawide.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/darksight/darksight_ultrawide.bin \
+    vendor/oneplus/opkona/proprietary/odm/20828/etc/camera/darksight/darksight_main.bin:$(TARGET_COPY_OUT_ODM)/20828/etc/camera/darksight/darksight_main.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/darksight/darksight_ultrawide.bin:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/darksight/darksight_ultrawide.bin \
     vendor/oneplus/opkona/proprietary/odm/19821/etc/camera/darksight/darksight_ultrawide.bin:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/darksight/darksight_ultrawide.bin \
-    vendor/oneplus/opkona/proprietary/odm/etc/camera/distortion_result.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/distortion_result.bin \
+    vendor/oneplus/opkona/proprietary/odm/20828/etc/camera/darksight/darksight_ultrawide.bin:$(TARGET_COPY_OUT_ODM)/20828/etc/camera/darksight/darksight_ultrawide.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/etc/camera/distortion_result.bin:$(TARGET_COPY_OUT_ODM)/19811/etc/camera/distortion_result.bin \
     vendor/oneplus/opkona/proprietary/odm/19821/etc/camera/distortion_result.bin:$(TARGET_COPY_OUT_ODM)/19821/etc/camera/distortion_result.bin \
+    vendor/oneplus/opkona/proprietary/odm/20828/etc/camera/distortion_result.bin:$(TARGET_COPY_OUT_ODM)/20828/etc/camera/distortion_result.bin \
     vendor/oneplus/opkona/proprietary/odm/etc/camera/fb_default:$(TARGET_COPY_OUT_ODM)/etc/camera/fb_default \
     vendor/oneplus/opkona/proprietary/odm/etc/camera/fwk_config.json:$(TARGET_COPY_OUT_ODM)/etc/camera/fwk_config.json \
     vendor/oneplus/opkona/proprietary/odm/etc/init/android.hardware.drm@1.3-service.widevine.rc:$(TARGET_COPY_OUT_ODM)/etc/init/android.hardware.drm@1.3-service.widevine.rc \
@@ -1203,38 +1203,38 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/opkona/proprietary/odm/lib/rfsa/adsp/libktvvolume.so:$(TARGET_COPY_OUT_ODM)/lib/rfsa/adsp/libktvvolume.so \
     vendor/oneplus/opkona/proprietary/odm/lib/vendor.oplus.hardware.orms@1.0.so:$(TARGET_COPY_OUT_ODM)/lib/vendor.oplus.hardware.orms@1.0.so \
     vendor/oneplus/opkona/proprietary/odm/lib64/android.hardware.secure_element@1.0-impl.so:$(TARGET_COPY_OUT_ODM)/lib64/android.hardware.secure_element@1.0-impl.so \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/com.qti.sensormodule.holitech_gc02m1b.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.holitech_gc02m1b.bin \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/com.qti.sensormodule.holitech_gc02m1b.bin:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/com.qti.sensormodule.holitech_gc02m1b.bin \
     vendor/oneplus/opkona/proprietary/odm/19821/lib64/camera/com.qti.sensormodule.ofilm_imx481.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.sensormodule.ofilm_imx481.bin \
     vendor/oneplus/opkona/proprietary/odm/19821/lib64/camera/com.qti.sensormodule.ofilm_imx481_SFK.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.sensormodule.ofilm_imx481_SFK.bin \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/com.qti.sensormodule.qtech_imx481.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.qtech_imx481.bin \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/com.qti.sensormodule.semco_imx586.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.semco_imx586.bin \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/com.qti.sensormodule.qtech_imx481.bin:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/com.qti.sensormodule.qtech_imx481.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/lib64/camera/com.qti.sensormodule.semco_imx586.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.sensormodule.semco_imx586.bin \
     vendor/oneplus/opkona/proprietary/odm/19821/lib64/camera/com.qti.sensormodule.semco_imx586.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.sensormodule.semco_imx586.bin \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/com.qti.sensormodule.semco_imx586.bin:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/com.qti.sensormodule.semco_imx586.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/lib64/camera/com.qti.sensormodule.semco_imx586_BG.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.sensormodule.semco_imx586_BG.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/lib64/camera/com.qti.sensormodule.semco_imx689.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.sensormodule.semco_imx689.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/lib64/camera/com.qti.sensormodule.semco_imx689_MP.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.sensormodule.semco_imx689_MP.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/lib64/camera/com.qti.sensormodule.semco_s5k3m5.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.sensormodule.semco_s5k3m5.bin \
     vendor/oneplus/opkona/proprietary/odm/19821/lib64/camera/com.qti.sensormodule.shine_gc2375.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.sensormodule.shine_gc2375.bin \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/com.qti.sensormodule.shine_gc5035.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.shine_gc5035.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/lib64/camera/com.qti.sensormodule.shine_gc5035.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.sensormodule.shine_gc5035.bin \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/com.qti.sensormodule.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.truly_imx471.bin \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/com.qti.sensormodule.shine_gc5035.bin:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/com.qti.sensormodule.shine_gc5035.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/lib64/camera/com.qti.sensormodule.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.sensormodule.truly_imx471.bin \
     vendor/oneplus/opkona/proprietary/odm/19821/lib64/camera/com.qti.sensormodule.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.sensormodule.truly_imx471.bin \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/com.qti.tuned.holitech_gc02m1b.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.holitech_gc02m1b.bin \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/com.qti.sensormodule.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/com.qti.sensormodule.truly_imx471.bin \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/com.qti.tuned.holitech_gc02m1b.bin:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/com.qti.tuned.holitech_gc02m1b.bin \
     vendor/oneplus/opkona/proprietary/odm/19821/lib64/camera/com.qti.tuned.ofilm_imx481.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.tuned.ofilm_imx481.bin \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/com.qti.tuned.qtech_imx481.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.qtech_imx481.bin \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/com.qti.tuned.semco_imx586.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.semco_imx586.bin \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/com.qti.tuned.qtech_imx481.bin:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/com.qti.tuned.qtech_imx481.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/lib64/camera/com.qti.tuned.semco_imx586.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.tuned.semco_imx586.bin \
     vendor/oneplus/opkona/proprietary/odm/19821/lib64/camera/com.qti.tuned.semco_imx586.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.tuned.semco_imx586.bin \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/com.qti.tuned.semco_imx586.bin:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/com.qti.tuned.semco_imx586.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/lib64/camera/com.qti.tuned.semco_imx586_BG.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.tuned.semco_imx586_BG.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/lib64/camera/com.qti.tuned.semco_imx689.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.tuned.semco_imx689.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/lib64/camera/com.qti.tuned.semco_s5k3m5.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.tuned.semco_s5k3m5.bin \
     vendor/oneplus/opkona/proprietary/odm/19821/lib64/camera/com.qti.tuned.shine_gc2375.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.tuned.shine_gc2375.bin \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/com.qti.tuned.shine_gc5035.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.shine_gc5035.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/lib64/camera/com.qti.tuned.shine_gc5035.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.tuned.shine_gc5035.bin \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/com.qti.tuned.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.tuned.truly_imx471.bin \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/com.qti.tuned.shine_gc5035.bin:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/com.qti.tuned.shine_gc5035.bin \
     vendor/oneplus/opkona/proprietary/odm/19811/lib64/camera/com.qti.tuned.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti.tuned.truly_imx471.bin \
     vendor/oneplus/opkona/proprietary/odm/19821/lib64/camera/com.qti.tuned.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti.tuned.truly_imx471.bin \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/com.qti.tuned.truly_imx471.bin:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/com.qti.tuned.truly_imx471.bin \
     vendor/oneplus/opkona/proprietary/odm/19821/lib64/camera/com.qti_instantnoodle.sensor.gc2375.so:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti_instantnoodle.sensor.gc2375.so \
     vendor/oneplus/opkona/proprietary/odm/19821/lib64/camera/com.qti_instantnoodle.sensor.imx471.so:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti_instantnoodle.sensor.imx471.so \
     vendor/oneplus/opkona/proprietary/odm/19821/lib64/camera/com.qti_instantnoodle.sensor.imx481.so:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/com.qti_instantnoodle.sensor.imx481.so \
@@ -1244,13 +1244,13 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/opkona/proprietary/odm/19811/lib64/camera/com.qti_instantnoodlep.sensor.imx586.so:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti_instantnoodlep.sensor.imx586.so \
     vendor/oneplus/opkona/proprietary/odm/19811/lib64/camera/com.qti_instantnoodlep.sensor.imx689.so:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti_instantnoodlep.sensor.imx689.so \
     vendor/oneplus/opkona/proprietary/odm/19811/lib64/camera/com.qti_instantnoodlep.sensor.s5k3m5.so:$(TARGET_COPY_OUT_ODM)/19811/lib64/camera/com.qti_instantnoodlep.sensor.s5k3m5.so \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/com.qti_lemonades.sensor.gc02m1b.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_lemonades.sensor.gc02m1b.so \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/com.qti_lemonades.sensor.gc5035.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_lemonades.sensor.gc5035.so \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/com.qti_lemonades.sensor.imx471.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_lemonades.sensor.imx471.so \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/com.qti_lemonades.sensor.imx481.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_lemonades.sensor.imx481.so \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/com.qti_lemonades.sensor.imx586.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti_lemonades.sensor.imx586.so \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/components/com.oneplus.node.cfrsnapshot.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oneplus.node.cfrsnapshot.so \
-    vendor/oneplus/opkona/proprietary/odm/lib64/camera/components/com.oneplus.node.cfrvideo.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oneplus.node.cfrvideo.so \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/com.qti_lemonades.sensor.gc02m1b.so:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/com.qti_lemonades.sensor.gc02m1b.so \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/com.qti_lemonades.sensor.gc5035.so:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/com.qti_lemonades.sensor.gc5035.so \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/com.qti_lemonades.sensor.imx471.so:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/com.qti_lemonades.sensor.imx471.so \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/com.qti_lemonades.sensor.imx481.so:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/com.qti_lemonades.sensor.imx481.so \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/com.qti_lemonades.sensor.imx586.so:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/com.qti_lemonades.sensor.imx586.so \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/components/com.oneplus.node.cfrsnapshot.so:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/components/com.oneplus.node.cfrsnapshot.so \
+    vendor/oneplus/opkona/proprietary/odm/20828/lib64/camera/components/com.oneplus.node.cfrvideo.so:$(TARGET_COPY_OUT_ODM)/20828/lib64/camera/components/com.oneplus.node.cfrvideo.so \
     vendor/oneplus/opkona/proprietary/odm/lib64/camera/components/com.qti.stats.pdlib.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.qti.stats.pdlib.so \
     vendor/oneplus/opkona/proprietary/odm/19821/lib64/camera/components/com.qti.stats.pdlib.so:$(TARGET_COPY_OUT_ODM)/19821/lib64/camera/components/com.qti.stats.pdlib.so \
     vendor/oneplus/opkona/proprietary/odm/lib64/camera/components/libipebpsstriping.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/libipebpsstriping.so \
