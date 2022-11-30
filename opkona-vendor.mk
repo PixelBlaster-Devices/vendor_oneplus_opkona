@@ -119,17 +119,44 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/opkona/proprietary/odm/etc/samsung1024_ana6706_eyeprotect_data.xml:$(TARGET_COPY_OUT_ODM)/etc/samsung1024_ana6706_eyeprotect_data.xml \
     vendor/oneplus/opkona/proprietary/odm/etc/samsung1024_ana6706_srgb_eyeprotect_data.xml:$(TARGET_COPY_OUT_ODM)/etc/samsung1024_ana6706_srgb_eyeprotect_data.xml \
     vendor/oneplus/opkona/proprietary/odm/etc/sap.conf:$(TARGET_COPY_OUT_ODM)/etc/sap.conf \
+    vendor/oneplus/opkona/proprietary/odm/19811/etc/sensor/config/kona_T0_tcs3408.json:$(TARGET_COPY_OUT_ODM)/19811/etc/sensor/config/kona_T0_tcs3408.json \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/sensor/config/kona_ak991x_0.json:$(TARGET_COPY_OUT_ODM)/19821/etc/sensor/config/kona_ak991x_0.json \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/sensor/config/kona_bmi26x_0.json:$(TARGET_COPY_OUT_ODM)/19821/etc/sensor/config/kona_bmi26x_0.json \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/sensor/config/kona_mmc5603x_0.json:$(TARGET_COPY_OUT_ODM)/19821/etc/sensor/config/kona_mmc5603x_0.json \
     vendor/oneplus/opkona/proprietary/odm/etc/sensor/config/kona_qrd_ak991x_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_ak991x_0.json \
+    vendor/oneplus/opkona/proprietary/odm/19811/etc/sensor/config/kona_qrd_ak991x_0.json:$(TARGET_COPY_OUT_ODM)/19811/etc/sensor/config/kona_qrd_ak991x_0.json \
     vendor/oneplus/opkona/proprietary/odm/etc/sensor/config/kona_qrd_alsps.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_alsps.json \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/sensor/config/kona_qrd_alsps.json:$(TARGET_COPY_OUT_ODM)/19821/etc/sensor/config/kona_qrd_alsps.json \
     vendor/oneplus/opkona/proprietary/odm/etc/sensor/config/kona_qrd_bmi26x_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_bmi26x_0.json \
+    vendor/oneplus/opkona/proprietary/odm/19811/etc/sensor/config/kona_qrd_bmi26x_0.json:$(TARGET_COPY_OUT_ODM)/19811/etc/sensor/config/kona_qrd_bmi26x_0.json \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/sensor/config/kona_qrd_bmi26x_0.json:$(TARGET_COPY_OUT_ODM)/19821/etc/sensor/config/kona_qrd_bmi26x_0.json \
     vendor/oneplus/opkona/proprietary/odm/etc/sensor/config/kona_qrd_cct.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_cct.json \
+    vendor/oneplus/opkona/proprietary/odm/19811/etc/sensor/config/kona_qrd_cct.json:$(TARGET_COPY_OUT_ODM)/19811/etc/sensor/config/kona_qrd_cct.json \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/sensor/config/kona_qrd_cct.json:$(TARGET_COPY_OUT_ODM)/19821/etc/sensor/config/kona_qrd_cct.json \
     vendor/oneplus/opkona/proprietary/odm/etc/sensor/config/kona_qrd_cct_rear.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_cct_rear.json \
+    vendor/oneplus/opkona/proprietary/odm/19811/etc/sensor/config/kona_qrd_cct_rear.json:$(TARGET_COPY_OUT_ODM)/19811/etc/sensor/config/kona_qrd_cct_rear.json \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/sensor/config/kona_qrd_cct_rear.json:$(TARGET_COPY_OUT_ODM)/19821/etc/sensor/config/kona_qrd_cct_rear.json \
     vendor/oneplus/opkona/proprietary/odm/etc/sensor/config/kona_qrd_icm4x6xx.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_icm4x6xx.json \
+    vendor/oneplus/opkona/proprietary/odm/19811/etc/sensor/config/kona_qrd_icm4x6xx.json:$(TARGET_COPY_OUT_ODM)/19811/etc/sensor/config/kona_qrd_icm4x6xx.json \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/sensor/config/kona_qrd_icm4x6xx.json:$(TARGET_COPY_OUT_ODM)/19821/etc/sensor/config/kona_qrd_icm4x6xx.json \
     vendor/oneplus/opkona/proprietary/odm/etc/sensor/config/kona_qrd_lps22hh_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_lps22hh_0.json \
+    vendor/oneplus/opkona/proprietary/odm/19811/etc/sensor/config/kona_qrd_lsm6dsm_0.json:$(TARGET_COPY_OUT_ODM)/19811/etc/sensor/config/kona_qrd_lsm6dsm_0.json \
     vendor/oneplus/opkona/proprietary/odm/etc/sensor/config/kona_qrd_lsm6dso.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_lsm6dso.json \
+    vendor/oneplus/opkona/proprietary/odm/19811/etc/sensor/config/kona_qrd_lsm6dso.json:$(TARGET_COPY_OUT_ODM)/19811/etc/sensor/config/kona_qrd_lsm6dso.json \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/sensor/config/kona_qrd_lsm6dso.json:$(TARGET_COPY_OUT_ODM)/19821/etc/sensor/config/kona_qrd_lsm6dso.json \
+    vendor/oneplus/opkona/proprietary/odm/19811/etc/sensor/config/kona_qrd_mmc5603x_0.json:$(TARGET_COPY_OUT_ODM)/19811/etc/sensor/config/kona_qrd_mmc5603x_0.json \
     vendor/oneplus/opkona/proprietary/odm/etc/sensor/config/kona_qrd_mmc56x3x.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_mmc56x3x.json \
+    vendor/oneplus/opkona/proprietary/odm/19811/etc/sensor/config/kona_qrd_stk2232_0.json:$(TARGET_COPY_OUT_ODM)/19811/etc/sensor/config/kona_qrd_stk2232_0.json \
     vendor/oneplus/opkona/proprietary/odm/etc/sensor/config/kona_qrd_sx933x_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_sx933x_0.json \
+    vendor/oneplus/opkona/proprietary/odm/19811/etc/sensor/config/kona_qrd_sx933x_0.json:$(TARGET_COPY_OUT_ODM)/19811/etc/sensor/config/kona_qrd_sx933x_0.json \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/sensor/config/kona_qrd_sx933x_0.json:$(TARGET_COPY_OUT_ODM)/19821/etc/sensor/config/kona_qrd_sx933x_0.json \
+    vendor/oneplus/opkona/proprietary/odm/19811/etc/sensor/config/kona_qrd_tcs3408.json:$(TARGET_COPY_OUT_ODM)/19811/etc/sensor/config/kona_qrd_tcs3408.json \
     vendor/oneplus/opkona/proprietary/odm/etc/sensor/config/kona_qrd_tcs3408_rear.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_tcs3408_rear.json \
+    vendor/oneplus/opkona/proprietary/odm/19811/etc/sensor/config/kona_qrd_tcs3707.json:$(TARGET_COPY_OUT_ODM)/19811/etc/sensor/config/kona_qrd_tcs3707.json \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/sensor/config/kona_stk2232_0.json:$(TARGET_COPY_OUT_ODM)/19821/etc/sensor/config/kona_stk2232_0.json \
+    vendor/oneplus/opkona/proprietary/odm/19811/etc/sensor/config/kona_stk3a6x_0.json:$(TARGET_COPY_OUT_ODM)/19811/etc/sensor/config/kona_stk3a6x_0.json \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/sensor/config/kona_sx9324_0.json:$(TARGET_COPY_OUT_ODM)/19821/etc/sensor/config/kona_sx9324_0.json \
+    vendor/oneplus/opkona/proprietary/odm/19821/etc/sensor/config/kona_sx9324up_0.json:$(TARGET_COPY_OUT_ODM)/19821/etc/sensor/config/kona_sx9324up_0.json \
     vendor/oneplus/opkona/proprietary/odm/etc/sensor/sensor_config.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/sensor_config.json \
     vendor/oneplus/opkona/proprietary/odm/etc/wifi/bdwlan.elf:$(TARGET_COPY_OUT_ODM)/etc/wifi/bdwlan.elf \
     vendor/oneplus/opkona/proprietary/odm/firmware/100ms_RTP.bin:$(TARGET_COPY_OUT_ODM)/firmware/100ms_RTP.bin \
